@@ -1,6 +1,6 @@
 # NEW REPOSITORY
 
-This is a new repository
+This is a new repository.
 
 # CREATOR
 
